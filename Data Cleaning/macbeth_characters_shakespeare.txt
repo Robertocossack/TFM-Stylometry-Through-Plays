@@ -1,0 +1,4329 @@
+
+MACBETHMACBETH
+
+1
+	
+
+I,3,138
+	
+
+So foul and fair a day I have not seen.
+
+2
+	
+
+I,3,148
+	
+
+Speak, if you can: what are you?
+
+3
+	
+
+I,3,171
+	
+
+Stay, you imperfect speakers, tell me more:
+By Sinel's death I know I am thane of Glamis;
+But how of Cawdor? the thane of Cawdor lives,
+A prosperous gentleman; and to be king
+Stands not within the prospect of belief,
+No more than to be Cawdor. Say from whence
+You owe this strange intelligence? or why
+Upon this blasted heath you stop our way
+With such prophetic greeting? Speak, I charge you.
+
+4
+	
+
+I,3,183
+	
+
+Into the air; and what seem'd corporal melted
+As breath into the wind. Would they had stay'd!
+
+5
+	
+
+I,3,188
+	
+
+Your children shall be kings.
+
+6
+	
+
+I,3,190
+	
+
+And thane of Cawdor too: went it not so?
+
+7
+	
+
+I,3,214
+	
+
+The thane of Cawdor lives: why do you dress me
+In borrow'd robes?
+
+8
+	
+
+I,3,224
+	
+
+[Aside] Glamis, and thane of Cawdor!
+The greatest is behind.
+[To ROSS and ANGUS]
+Thanks for your pains.
+[To BANQUO]
+Do you not hope your children shall be kings,
+When those that gave the thane of Cawdor to me
+Promised no less to them?
+
+9
+	
+
+I,3,240
+	
+
+[Aside]. Two truths are told,
+As happy prologues to the swelling act
+Of the imperial theme.—I thank you, gentlemen.
+[Aside] This supernatural soliciting]
+Cannot be ill, cannot be good: if ill,
+Why hath it given me earnest of success,
+Commencing in a truth? I am thane of Cawdor:
+If good, why do I yield to that suggestion
+Whose horrid image doth unfix my hair
+And make my seated heart knock at my ribs,
+Against the use of nature? Present fears
+Are less than horrible imaginings:
+My thought, whose murder yet is but fantastical,
+Shakes so my single state of man that function
+Is smother'd in surmise, and nothing is
+But what is not.
+
+10
+	
+
+I,3,257
+	
+
+[Aside] If chance will have me king, why, chance may crown me,
+Without my stir.
+
+11
+	
+
+I,3,262
+	
+
+[Aside] Come what come may,
+Time and the hour runs through the roughest day.
+
+12
+	
+
+I,3,265
+	
+
+Give me your favour: my dull brain was wrought
+With things forgotten. Kind gentlemen, your pains
+Are register'd where every day I turn
+The leaf to read them. Let us toward the king.
+Think upon what hath chanced, and, at more time,
+The interim having weigh'd it, let us speak
+Our free hearts each to other.
+
+13
+	
+
+I,3,273
+	
+
+Till then, enough. Come, friends.
+
+14
+	
+
+I,4,301
+	
+
+The service and the loyalty I owe,
+In doing it, pays itself. Your highness' part
+Is to receive our duties; and our duties
+Are to your throne and state children and servants,
+Which do but what they should, by doing every thing
+Safe toward your love and honour.
+
+15
+	
+
+I,4,326
+	
+
+The rest is labour, which is not used for you:
+I'll be myself the harbinger and make joyful
+The hearing of my wife with your approach;
+So humbly take my leave.
+
+16
+	
+
+I,4,331
+	
+
+[Aside] The Prince of Cumberland! that is a step
+On which I must fall down, or else o'erleap,
+For in my way it lies. Stars, hide your fires;
+Let not light see my black and deep desires:
+The eye wink at the hand; yet let that be,
+Which the eye fears, when it is done, to see.
+
+17
+	
+
+I,5,411
+	
+
+My dearest love,
+Duncan comes here to-night.
+
+18
+	
+
+I,5,414
+	
+
+To-morrow, as he purposes.
+
+19
+	
+
+I,5,426
+	
+
+We will speak further.
+
+20
+	
+
+I,7,474
+	
+
+If it were done when 'tis done, then 'twere well
+It were done quickly: if the assassination
+Could trammel up the consequence, and catch
+With his surcease success; that but this blow
+Might be the be-all and the end-all here,
+But here, upon this bank and shoal of time,
+We'ld jump the life to come. But in these cases
+We still have judgment here; that we but teach
+Bloody instructions, which, being taught, return
+To plague the inventor: this even-handed justice
+Commends the ingredients of our poison'd chalice
+To our own lips. He's here in double trust;
+First, as I am his kinsman and his subject,
+Strong both against the deed; then, as his host,
+Who should against his murderer shut the door,
+Not bear the knife myself. Besides, this Duncan
+Hath borne his faculties so meek, hath been
+So clear in his great office, that his virtues
+Will plead like angels, trumpet-tongued, against
+The deep damnation of his taking-off;
+And pity, like a naked new-born babe,
+Striding the blast, or heaven's cherubim, horsed
+Upon the sightless couriers of the air,
+Shall blow the horrid deed in every eye,
+That tears shall drown the wind. I have no spur
+To prick the sides of my intent, but only
+Vaulting ambition, which o'erleaps itself
+And falls on the other.
+[Enter LADY MACBETH]
+How now! what news?
+
+21
+	
+
+I,7,505
+	
+
+Hath he ask'd for me?
+
+22
+	
+
+I,7,507
+	
+
+We will proceed no further in this business:
+He hath honour'd me of late; and I have bought
+Golden opinions from all sorts of people,
+Which would be worn now in their newest gloss,
+Not cast aside so soon.
+
+23
+	
+
+I,7,523
+	
+
+Prithee, peace:
+I dare do all that may become a man;
+Who dares do more is none.
+
+24
+	
+
+I,7,539
+	
+
+If we should fail?
+
+25
+	
+
+I,7,554
+	
+
+Bring forth men-children only;
+For thy undaunted mettle should compose
+Nothing but males. Will it not be received,
+When we have mark'd with blood those sleepy two
+Of his own chamber and used their very daggers,
+That they have done't?
+
+26
+	
+
+I,7,563
+	
+
+I am settled, and bend up
+Each corporal agent to this terrible feat.
+Away, and mock the time with fairest show:
+False face must hide what the false heart doth know.
+
+27
+	
+
+II,1,582
+	
+
+A friend.
+
+28
+	
+
+II,1,589
+	
+
+Being unprepared,
+Our will became the servant to defect;
+Which else should free have wrought.
+
+29
+	
+
+II,1,595
+	
+
+I think not of them:
+Yet, when we can entreat an hour to serve,
+We would spend it in some words upon that business,
+If you would grant the time.
+
+30
+	
+
+II,1,600
+	
+
+If you shall cleave to my consent, when 'tis,
+It shall make honour for you.
+
+31
+	
+
+II,1,606
+	
+
+Good repose the while!
+
+32
+	
+
+II,1,609
+	
+
+Go bid thy mistress, when my drink is ready,
+She strike upon the bell. Get thee to bed.
+[Exit Servant]
+Is this a dagger which I see before me,
+The handle toward my hand? Come, let me clutch thee.
+I have thee not, and yet I see thee still.
+Art thou not, fatal vision, sensible
+To feeling as to sight? or art thou but
+A dagger of the mind, a false creation,
+Proceeding from the heat-oppressed brain?
+I see thee yet, in form as palpable
+As this which now I draw.
+Thou marshall'st me the way that I was going;
+And such an instrument I was to use.
+Mine eyes are made the fools o' the other senses,
+Or else worth all the rest; I see thee still,
+And on thy blade and dudgeon gouts of blood,
+Which was not so before. There's no such thing:
+It is the bloody business which informs
+Thus to mine eyes. Now o'er the one halfworld
+Nature seems dead, and wicked dreams abuse
+The curtain'd sleep; witchcraft celebrates
+Pale Hecate's offerings, and wither'd murder,
+Alarum'd by his sentinel, the wolf,
+Whose howl's his watch, thus with his stealthy pace.
+With Tarquin's ravishing strides, towards his design
+Moves like a ghost. Thou sure and firm-set earth,
+Hear not my steps, which way they walk, for fear
+Thy very stones prate of my whereabout,
+And take the present horror from the time,
+Which now suits with it. Whiles I threat, he lives:
+Words to the heat of deeds too cold breath gives.
+[A bell rings]
+I go, and it is done; the bell invites me.
+Hear it not, Duncan; for it is a knell
+That summons thee to heaven or to hell.
+
+33
+	
+
+II,2,657
+	
+
+[Within] Who's there? what, ho!
+
+34
+	
+
+II,2,665
+	
+
+I have done the deed. Didst thou not hear a noise?
+
+35
+	
+
+II,2,668
+	
+
+When?
+
+36
+	
+
+II,2,670
+	
+
+As I descended?
+
+37
+	
+
+II,2,672
+	
+
+Hark!
+Who lies i' the second chamber?
+
+38
+	
+
+II,2,675
+	
+
+This is a sorry sight.
+
+39
+	
+
+II,2,678
+	
+
+There's one did laugh in's sleep, and one cried
+'Murder!'
+That they did wake each other: I stood and heard them:
+But they did say their prayers, and address'd them
+Again to sleep.
+
+40
+	
+
+II,2,684
+	
+
+One cried 'God bless us!' and 'Amen' the other;
+As they had seen me with these hangman's hands.
+Listening their fear, I could not say 'Amen,'
+When they did say 'God bless us!'
+
+41
+	
+
+II,2,689
+	
+
+But wherefore could not I pronounce 'Amen'?
+I had most need of blessing, and 'Amen'
+Stuck in my throat.
+
+42
+	
+
+II,2,694
+	
+
+Methought I heard a voice cry 'Sleep no more!
+Macbeth does murder sleep', the innocent sleep,
+Sleep that knits up the ravell'd sleeve of care,
+The death of each day's life, sore labour's bath,
+Balm of hurt minds, great nature's second course,
+Chief nourisher in life's feast,—
+
+43
+	
+
+II,2,701
+	
+
+Still it cried 'Sleep no more!' to all the house:
+'Glamis hath murder'd sleep, and therefore Cawdor
+Shall sleep no more; Macbeth shall sleep no more.'
+
+44
+	
+
+II,2,711
+	
+
+I'll go no more:
+I am afraid to think what I have done;
+Look on't again I dare not.
+
+45
+	
+
+II,2,721
+	
+
+Whence is that knocking?
+How is't with me, when every noise appals me?
+What hands are here? ha! they pluck out mine eyes.
+Will all great Neptune's ocean wash this blood
+Clean from my hand? No, this my hand will rather
+The multitudinous seas in incarnadine,
+Making the green one red.
+
+46
+	
+
+II,2,742
+	
+
+To know my deed, 'twere best not know myself.
+[Knocking within]
+Wake Duncan with thy knocking! I would thou couldst!
+
+47
+	
+
+II,3,808
+	
+
+Good morrow, both.
+
+48
+	
+
+II,3,810
+	
+
+Not yet.
+
+49
+	
+
+II,3,813
+	
+
+I'll bring you to him.
+
+50
+	
+
+II,3,816
+	
+
+The labour we delight in physics pain.
+This is the door.
+
+51
+	
+
+II,3,822
+	
+
+He does: he did appoint so.
+
+52
+	
+
+II,3,831
+	
+
+'Twas a rough night.
+
+53
+	
+
+II,3,837
+	
+
+[with Lennox] What's the matter.
+
+54
+	
+
+II,3,842
+	
+
+What is 't you say? the life?
+
+55
+	
+
+II,3,874
+	
+
+Had I but died an hour before this chance,
+I had lived a blessed time; for, from this instant,
+There 's nothing serious in mortality:
+All is but toys: renown and grace is dead;
+The wine of life is drawn, and the mere lees
+Is left this vault to brag of.
+
+56
+	
+
+II,3,882
+	
+
+You are, and do not know't:
+The spring, the head, the fountain of your blood
+Is stopp'd; the very source of it is stopp'd.
+
+57
+	
+
+II,3,893
+	
+
+O, yet I do repent me of my fury,
+That I did kill them.
+
+58
+	
+
+II,3,896
+	
+
+Who can be wise, amazed, temperate and furious,
+Loyal and neutral, in a moment? No man:
+The expedition my violent love
+Outrun the pauser, reason. Here lay Duncan,
+His silver skin laced with his golden blood;
+And his gash'd stabs look'd like a breach in nature
+For ruin's wasteful entrance: there, the murderers,
+Steep'd in the colours of their trade, their daggers
+Unmannerly breech'd with gore: who could refrain,
+That had a heart to love, and in that heart
+Courage to make 's love known?
+
+59
+	
+
+II,3,929
+	
+
+Let's briefly put on manly readiness,
+And meet i' the hall together.
+
+60
+	
+
+III,1,1014
+	
+
+Here's our chief guest.
+
+61
+	
+
+III,1,1018
+	
+
+To-night we hold a solemn supper sir,
+And I'll request your presence.
+
+62
+	
+
+III,1,1024
+	
+
+Ride you this afternoon?
+
+63
+	
+
+III,1,1026
+	
+
+We should have else desired your good advice,
+Which still hath been both grave and prosperous,
+In this day's council; but we'll take to-morrow.
+Is't far you ride?
+
+64
+	
+
+III,1,1034
+	
+
+Fail not our feast.
+
+65
+	
+
+III,1,1036
+	
+
+We hear, our bloody cousins are bestow'd
+In England and in Ireland, not confessing
+Their cruel parricide, filling their hearers
+With strange invention: but of that to-morrow,
+When therewithal we shall have cause of state
+Craving us jointly. Hie you to horse: adieu,
+Till you return at night. Goes Fleance with you?
+
+66
+	
+
+III,1,1044
+	
+
+I wish your horses swift and sure of foot;
+And so I do commend you to their backs. Farewell.
+[Exit BANQUO]
+Let every man be master of his time
+Till seven at night: to make society
+The sweeter welcome, we will keep ourself
+Till supper-time alone: while then, God be with you!
+[Exeunt all but MACBETH, and an attendant]
+Sirrah, a word with you: attend those men
+Our pleasure?
+
+67
+	
+
+III,1,1055
+	
+
+Bring them before us.
+[Exit Attendant]
+To be thus is nothing;
+But to be safely thus.—Our fears in Banquo
+Stick deep; and in his royalty of nature
+Reigns that which would be fear'd: 'tis much he dares;
+And, to that dauntless temper of his mind,
+He hath a wisdom that doth guide his valour
+To act in safety. There is none but he
+Whose being I do fear: and, under him,
+My Genius is rebuked; as, it is said,
+Mark Antony's was by Caesar. He chid the sisters
+When first they put the name of king upon me,
+And bade them speak to him: then prophet-like
+They hail'd him father to a line of kings:
+Upon my head they placed a fruitless crown,
+And put a barren sceptre in my gripe,
+Thence to be wrench'd with an unlineal hand,
+No son of mine succeeding. If 't be so,
+For Banquo's issue have I filed my mind;
+For them the gracious Duncan have I murder'd;
+Put rancours in the vessel of my peace
+Only for them; and mine eternal jewel
+Given to the common enemy of man,
+To make them kings, the seed of Banquo kings!
+Rather than so, come fate into the list.
+And champion me to the utterance! Who's there!
+[Re-enter Attendant, with two Murderers]
+Now go to the door, and stay there till we call.
+[Exit Attendant]
+Was it not yesterday we spoke together?
+
+68
+	
+
+III,1,1087
+	
+
+Well then, now
+Have you consider'd of my speeches? Know
+That it was he in the times past which held you
+So under fortune, which you thought had been
+Our innocent self: this I made good to you
+In our last conference, pass'd in probation with you,
+How you were borne in hand, how cross'd,
+the instruments,
+Who wrought with them, and all things else that might
+To half a soul and to a notion crazed
+Say 'Thus did Banquo.'
+
+69
+	
+
+III,1,1099
+	
+
+I did so, and went further, which is now
+Our point of second meeting. Do you find
+Your patience so predominant in your nature
+That you can let this go? Are you so gospell'd
+To pray for this good man and for his issue,
+Whose heavy hand hath bow'd you to the grave
+And beggar'd yours for ever?
+
+70
+	
+
+III,1,1107
+	
+
+Ay, in the catalogue ye go for men;
+As hounds and greyhounds, mongrels, spaniels, curs,
+Shoughs, water-rugs and demi-wolves, are clept
+All by the name of dogs: the valued file
+Distinguishes the swift, the slow, the subtle,
+The housekeeper, the hunter, every one
+According to the gift which bounteous nature
+Hath in him closed; whereby he does receive
+Particular addition. from the bill
+That writes them all alike: and so of men.
+Now, if you have a station in the file,
+Not i' the worst rank of manhood, say 't;
+And I will put that business in your bosoms,
+Whose execution takes your enemy off,
+Grapples you to the heart and love of us,
+Who wear our health but sickly in his life,
+Which in his death were perfect.
+
+71
+	
+
+III,1,1132
+	
+
+Both of you
+Know Banquo was your enemy.
+
+72
+	
+
+III,1,1135
+	
+
+So is he mine; and in such bloody distance,
+That every minute of his being thrusts
+Against my near'st of life: and though I could
+With barefaced power sweep him from my sight
+And bid my will avouch it, yet I must not,
+For certain friends that are both his and mine,
+Whose loves I may not drop, but wail his fall
+Who I myself struck down; and thence it is,
+That I to your assistance do make love,
+Masking the business from the common eye
+For sundry weighty reasons.
+
+73
+	
+
+III,1,1149
+	
+
+Your spirits shine through you. Within this hour at most
+I will advise you where to plant yourselves;
+Acquaint you with the perfect spy o' the time,
+The moment on't; for't must be done to-night,
+And something from the palace; always thought
+That I require a clearness: and with him—
+To leave no rubs nor botches in the work—
+Fleance his son, that keeps him company,
+Whose absence is no less material to me
+Than is his father's, must embrace the fate
+Of that dark hour. Resolve yourselves apart:
+I'll come to you anon.
+
+74
+	
+
+III,1,1162
+	
+
+I'll call upon you straight: abide within.
+[Exeunt Murderers]
+It is concluded. Banquo, thy soul's flight,
+If it find heaven, must find it out to-night.
+
+75
+	
+
+III,2,1184
+	
+
+We have scotch'd the snake, not kill'd it:
+She'll close and be herself, whilst our poor malice
+Remains in danger of her former tooth.
+But let the frame of things disjoint, both the
+worlds suffer,
+Ere we will eat our meal in fear and sleep
+In the affliction of these terrible dreams
+That shake us nightly: better be with the dead,
+Whom we, to gain our peace, have sent to peace,
+Than on the torture of the mind to lie
+In restless ecstasy. Duncan is in his grave;
+After life's fitful fever he sleeps well;
+Treason has done his worst: nor steel, nor poison,
+Malice domestic, foreign levy, nothing,
+Can touch him further.
+
+76
+	
+
+III,2,1202
+	
+
+So shall I, love; and so, I pray, be you:
+Let your remembrance apply to Banquo;
+Present him eminence, both with eye and tongue:
+Unsafe the while, that we
+Must lave our honours in these flattering streams,
+And make our faces vizards to our hearts,
+Disguising what they are.
+
+77
+	
+
+III,2,1210
+	
+
+O, full of scorpions is my mind, dear wife!
+Thou know'st that Banquo, and his Fleance, lives.
+
+78
+	
+
+III,2,1213
+	
+
+There's comfort yet; they are assailable;
+Then be thou jocund: ere the bat hath flown
+His cloister'd flight, ere to black Hecate's summons
+The shard-borne beetle with his drowsy hums
+Hath rung night's yawning peal, there shall be done
+A deed of dreadful note.
+
+79
+	
+
+III,2,1220
+	
+
+Be innocent of the knowledge, dearest chuck,
+Till thou applaud the deed. Come, seeling night,
+Scarf up the tender eye of pitiful day;
+And with thy bloody and invisible hand
+Cancel and tear to pieces that great bond
+Which keeps me pale! Light thickens; and the crow
+Makes wing to the rooky wood:
+Good things of day begin to droop and drowse;
+While night's black agents to their preys do rouse.
+Thou marvell'st at my words: but hold thee still;
+Things bad begun make strong themselves by ill.
+So, prithee, go with me.
+
+80
+	
+
+III,4,1272
+	
+
+You know your own degrees; sit down: at first
+And last the hearty welcome.
+
+81
+	
+
+III,4,1275
+	
+
+Ourself will mingle with society,
+And play the humble host.
+Our hostess keeps her state, but in best time
+We will require her welcome.
+
+82
+	
+
+III,4,1282
+	
+
+See, they encounter thee with their hearts' thanks.
+Both sides are even: here I'll sit i' the midst:
+Be large in mirth; anon we'll drink a measure
+The table round.
+[Approaching the door]
+There's blood on thy face.
+
+83
+	
+
+III,4,1289
+	
+
+'Tis better thee without than he within.
+Is he dispatch'd?
+
+84
+	
+
+III,4,1292
+	
+
+Thou art the best o' the cut-throats: yet he's good
+That did the like for Fleance: if thou didst it,
+Thou art the nonpareil.
+
+85
+	
+
+III,4,1297
+	
+
+Then comes my fit again: I had else been perfect,
+Whole as the marble, founded as the rock,
+As broad and general as the casing air:
+But now I am cabin'd, cribb'd, confined, bound in
+To saucy doubts and fears. But Banquo's safe?
+
+86
+	
+
+III,4,1305
+	
+
+Thanks for that:
+There the grown serpent lies; the worm that's fled
+Hath nature that in time will venom breed,
+No teeth for the present. Get thee gone: to-morrow
+We'll hear, ourselves, again.
+
+87
+	
+
+III,4,1317
+	
+
+Sweet remembrancer!
+Now, good digestion wait on appetite,
+And health on both!
+
+88
+	
+
+III,4,1323
+	
+
+Here had we now our country's honour roof'd,
+Were the graced person of our Banquo present;
+Who may I rather challenge for unkindness
+Than pity for mischance!
+
+89
+	
+
+III,4,1330
+	
+
+The table's full.
+
+90
+	
+
+III,4,1332
+	
+
+Where?
+
+91
+	
+
+III,4,1334
+	
+
+Which of you have done this?
+
+92
+	
+
+III,4,1336
+	
+
+Thou canst not say I did it: never shake
+Thy gory locks at me.
+
+93
+	
+
+III,4,1345
+	
+
+Ay, and a bold one, that dare look on that
+Which might appal the devil.
+
+94
+	
+
+III,4,1356
+	
+
+Prithee, see there! behold! look! lo!
+how say you?
+Why, what care I? If thou canst nod, speak too.
+If charnel-houses and our graves must send
+Those that we bury back, our monuments
+Shall be the maws of kites.
+
+95
+	
+
+III,4,1364
+	
+
+If I stand here, I saw him.
+
+96
+	
+
+III,4,1366
+	
+
+Blood hath been shed ere now, i' the olden time,
+Ere human statute purged the gentle weal;
+Ay, and since too, murders have been perform'd
+Too terrible for the ear: the times have been,
+That, when the brains were out, the man would die,
+And there an end; but now they rise again,
+With twenty mortal murders on their crowns,
+And push us from our stools: this is more strange
+Than such a murder is.
+
+97
+	
+
+III,4,1377
+	
+
+I do forget.
+Do not muse at me, my most worthy friends,
+I have a strange infirmity, which is nothing
+To those that know me. Come, love and health to all;
+Then I'll sit down. Give me some wine; fill full.
+I drink to the general joy o' the whole table,
+And to our dear friend Banquo, whom we miss;
+Would he were here! to all, and him, we thirst,
+And all to all.
+
+98
+	
+
+III,4,1388
+	
+
+Avaunt! and quit my sight! let the earth hide thee!
+Thy bones are marrowless, thy blood is cold;
+Thou hast no speculation in those eyes
+Which thou dost glare with!
+
+99
+	
+
+III,4,1395
+	
+
+What man dare, I dare:
+Approach thou like the rugged Russian bear,
+The arm'd rhinoceros, or the Hyrcan tiger;
+Take any shape but that, and my firm nerves
+Shall never tremble: or be alive again,
+And dare me to the desert with thy sword;
+If trembling I inhabit then, protest me
+The baby of a girl. Hence, horrible shadow!
+Unreal mockery, hence!
+[GHOST OF BANQUO vanishes]
+Why, so: being gone,
+I am a man again. Pray you, sit still.
+
+100
+	
+
+III,4,1409
+	
+
+Can such things be,
+And overcome us like a summer's cloud,
+Without our special wonder? You make me strange
+Even to the disposition that I owe,
+When now I think you can behold such sights,
+And keep the natural ruby of your cheeks,
+When mine is blanched with fear.
+
+101
+	
+
+III,4,1425
+	
+
+It will have blood; they say, blood will have blood:
+Stones have been known to move and trees to speak;
+Augurs and understood relations have
+By magot-pies and choughs and rooks brought forth
+The secret'st man of blood. What is the night?
+
+102
+	
+
+III,4,1431
+	
+
+How say'st thou, that Macduff denies his person
+At our great bidding?
+
+103
+	
+
+III,4,1434
+	
+
+I hear it by the way; but I will send:
+There's not a one of them but in his house
+I keep a servant fee'd. I will to-morrow,
+And betimes I will, to the weird sisters:
+More shall they speak; for now I am bent to know,
+By the worst means, the worst. For mine own good,
+All causes shall give way: I am in blood
+Stepp'd in so far that, should I wade no more,
+Returning were as tedious as go o'er:
+Strange things I have in head, that will to hand;
+Which must be acted ere they may be scann'd.
+
+104
+	
+
+III,4,1446
+	
+
+Come, we'll to sleep. My strange and self-abuse
+Is the initiate fear that wants hard use:
+We are yet but young in deed.
+
+105
+	
+
+IV,1,1599
+	
+
+How now, you secret, black, and midnight hags!
+What is't you do?
+
+106
+	
+
+IV,1,1602
+	
+
+I conjure you, by that which you profess,
+Howe'er you come to know it, answer me:
+Though you untie the winds and let them fight
+Against the churches; though the yesty waves
+Confound and swallow navigation up;
+Though bladed corn be lodged and trees blown down;
+Though castles topple on their warders' heads;
+Though palaces and pyramids do slope
+Their heads to their foundations; though the treasure
+Of nature's germens tumble all together,
+Even till destruction sicken; answer me
+To what I ask you.
+
+107
+	
+
+IV,1,1619
+	
+
+Call 'em; let me see 'em.
+
+108
+	
+
+IV,1,1627
+	
+
+Tell me, thou unknown power,—
+
+109
+	
+
+IV,1,1633
+	
+
+Whate'er thou art, for thy good caution, thanks;
+Thou hast harp'd my fear aright: but one
+word more,—
+
+110
+	
+
+IV,1,1640
+	
+
+Had I three ears, I'ld hear thee.
+
+111
+	
+
+IV,1,1645
+	
+
+Then live, Macduff: what need I fear of thee?
+But yet I'll make assurance double sure,
+And take a bond of fate: thou shalt not live;
+That I may tell pale-hearted fear it lies,
+And sleep in spite of thunder.
+[Thunder. Third Apparition: a Child crowned, with a tree in his hand]
+What is this
+That rises like the issue of a king,
+And wears upon his baby-brow the round
+And top of sovereignty?
+
+112
+	
+
+IV,1,1662
+	
+
+That will never be
+Who can impress the forest, bid the tree
+Unfix his earth-bound root? Sweet bodements! good!
+Rebellion's head, rise never till the wood
+Of Birnam rise, and our high-placed Macbeth
+Shall live the lease of nature, pay his breath
+To time and mortal custom. Yet my heart
+Throbs to know one thing: tell me, if your art
+Can tell so much: shall Banquo's issue ever
+Reign in this kingdom?
+
+113
+	
+
+IV,1,1673
+	
+
+I will be satisfied: deny me this,
+And an eternal curse fall on you! Let me know.
+Why sinks that cauldron? and what noise is this?
+
+114
+	
+
+IV,1,1684
+	
+
+Thou art too like the spirit of Banquo: down!
+Thy crown does sear mine eye-balls. And thy hair,
+Thou other gold-bound brow, is like the first.
+A third is like the former. Filthy hags!
+Why do you show me this? A fourth! Start, eyes!
+What, will the line stretch out to the crack of doom?
+Another yet! A seventh! I'll see no more:
+And yet the eighth appears, who bears a glass
+Which shows me many more; and some I see
+That two-fold balls and treble scepters carry:
+Horrible sight! Now, I see, 'tis true;
+For the blood-bolter'd Banquo smiles upon me,
+And points at them for his.
+[Apparitions vanish]
+What, is this so?
+
+115
+	
+
+IV,1,1708
+	
+
+Where are they? Gone? Let this pernicious hour
+Stand aye accursed in the calendar!
+Come in, without there!
+
+116
+	
+
+IV,1,1713
+	
+
+Saw you the weird sisters?
+
+117
+	
+
+IV,1,1715
+	
+
+Came they not by you?
+
+118
+	
+
+IV,1,1717
+	
+
+Infected be the air whereon they ride;
+And damn'd all those that trust them! I did hear
+The galloping of horse: who was't came by?
+
+119
+	
+
+IV,1,1722
+	
+
+Fled to England!
+
+120
+	
+
+IV,1,1724
+	
+
+Time, thou anticipatest my dread exploits:
+The flighty purpose never is o'ertook
+Unless the deed go with it; from this moment
+The very firstlings of my heart shall be
+The firstlings of my hand. And even now,
+To crown my thoughts with acts, be it thought and done:
+The castle of Macduff I will surprise;
+Seize upon Fife; give to the edge o' the sword
+His wife, his babes, and all unfortunate souls
+That trace him in his line. No boasting like a fool;
+This deed I'll do before this purpose cool.
+But no more sights!—Where are these gentlemen?
+Come, bring me where they are.
+
+121
+	
+
+V,3,2246
+	
+
+Bring me no more reports; let them fly all:
+Till Birnam wood remove to Dunsinane,
+I cannot taint with fear. What's the boy Malcolm?
+Was he not born of woman? The spirits that know
+All mortal consequences have pronounced me thus:
+'Fear not, Macbeth; no man that's born of woman
+Shall e'er have power upon thee.' Then fly,
+false thanes,
+And mingle with the English epicures:
+The mind I sway by and the heart I bear
+Shall never sag with doubt nor shake with fear.
+[Enter a Servant]
+The devil damn thee black, thou cream-faced loon!
+Where got'st thou that goose look?
+
+122
+	
+
+V,3,2261
+	
+
+Geese, villain!
+
+123
+	
+
+V,3,2263
+	
+
+Go prick thy face, and over-red thy fear,
+Thou lily-liver'd boy. What soldiers, patch?
+Death of thy soul! those linen cheeks of thine
+Are counsellors to fear. What soldiers, whey-face?
+
+124
+	
+
+V,3,2268
+	
+
+Take thy face hence.
+[Exit Servant]
+Seyton!—I am sick at heart,
+When I behold—Seyton, I say!—This push
+Will cheer me ever, or disseat me now.
+I have lived long enough: my way of life
+Is fall'n into the sear, the yellow leaf;
+And that which should accompany old age,
+As honour, love, obedience, troops of friends,
+I must not look to have; but, in their stead,
+Curses, not loud but deep, mouth-honour, breath,
+Which the poor heart would fain deny, and dare not. Seyton!
+
+125
+	
+
+V,3,2282
+	
+
+What news more?
+
+126
+	
+
+V,3,2284
+	
+
+I'll fight till from my bones my flesh be hack'd.
+Give me my armour.
+
+127
+	
+
+V,3,2287
+	
+
+I'll put it on.
+Send out more horses; skirr the country round;
+Hang those that talk of fear. Give me mine armour.
+How does your patient, doctor?
+
+128
+	
+
+V,3,2294
+	
+
+Cure her of that.
+Canst thou not minister to a mind diseased,
+Pluck from the memory a rooted sorrow,
+Raze out the written troubles of the brain
+And with some sweet oblivious antidote
+Cleanse the stuff'd bosom of that perilous stuff
+Which weighs upon the heart?
+
+129
+	
+
+V,3,2303
+	
+
+Throw physic to the dogs; I'll none of it.
+Come, put mine armour on; give me my staff.
+Seyton, send out. Doctor, the thanes fly from me.
+Come, sir, dispatch. If thou couldst, doctor, cast
+The water of my land, find her disease,
+And purge it to a sound and pristine health,
+I would applaud thee to the very echo,
+That should applaud again.—Pull't off, I say.—
+What rhubarb, cyme, or what purgative drug,
+Would scour these English hence? Hear'st thou of them?
+
+130
+	
+
+V,3,2315
+	
+
+Bring it after me.
+I will not be afraid of death and bane,
+Till Birnam forest come to Dunsinane.
+
+131
+	
+
+V,5,2353
+	
+
+Hang out our banners on the outward walls;
+The cry is still 'They come:' our castle's strength
+Will laugh a siege to scorn: here let them lie
+Till famine and the ague eat them up:
+Were they not forced with those that should be ours,
+We might have met them dareful, beard to beard,
+And beat them backward home.
+[A cry of women within]
+What is that noise?
+
+132
+	
+
+V,5,2364
+	
+
+I have almost forgot the taste of fears;
+The time has been, my senses would have cool'd
+To hear a night-shriek; and my fell of hair
+Would at a dismal treatise rouse and stir
+As life were in't: I have supp'd full with horrors;
+Direness, familiar to my slaughterous thoughts
+Cannot once start me.
+[Re-enter SEYTON]
+Wherefore was that cry?
+
+133
+	
+
+V,5,2374
+	
+
+She should have died hereafter;
+There would have been a time for such a word.
+To-morrow, and to-morrow, and to-morrow,
+Creeps in this petty pace from day to day
+To the last syllable of recorded time,
+And all our yesterdays have lighted fools
+The way to dusty death. Out, out, brief candle!
+Life's but a walking shadow, a poor player
+That struts and frets his hour upon the stage
+And then is heard no more: it is a tale
+Told by an idiot, full of sound and fury,
+Signifying nothing.
+[Enter a Messenger]
+Thou comest to use thy tongue; thy story quickly.
+
+134
+	
+
+V,5,2391
+	
+
+Well, say, sir.
+
+135
+	
+
+V,5,2395
+	
+
+Liar and slave!
+
+136
+	
+
+V,5,2399
+	
+
+If thou speak'st false,
+Upon the next tree shalt thou hang alive,
+Till famine cling thee: if thy speech be sooth,
+I care not if thou dost for me as much.
+I pull in resolution, and begin
+To doubt the equivocation of the fiend
+That lies like truth: 'Fear not, till Birnam wood
+Do come to Dunsinane:' and now a wood
+Comes toward Dunsinane. Arm, arm, and out!
+If this which he avouches does appear,
+There is nor flying hence nor tarrying here.
+I gin to be aweary of the sun,
+And wish the estate o' the world were now undone.
+Ring the alarum-bell! Blow, wind! come, wrack!
+At least we'll die with harness on our back.
+
+137
+	
+
+V,7,2430
+	
+
+They have tied me to a stake; I cannot fly,
+But, bear-like, I must fight the course. What's he
+That was not born of woman? Such a one
+Am I to fear, or none.
+
+138
+	
+
+V,7,2436
+	
+
+Thou'lt be afraid to hear it.
+
+139
+	
+
+V,7,2439
+	
+
+My name's Macbeth.
+
+140
+	
+
+V,7,2442
+	
+
+No, nor more fearful.
+
+141
+	
+
+V,7,2446
+	
+
+Thou wast born of woman
+But swords I smile at, weapons laugh to scorn,
+Brandish'd by man that's of a woman born.
+
+142
+	
+
+V,8,2473
+	
+
+Why should I play the Roman fool, and die
+On mine own sword? whiles I see lives, the gashes
+Do better upon them.
+
+143
+	
+
+V,8,2478
+	
+
+Of all men else I have avoided thee:
+But get thee back; my soul is too much charged
+With blood of thine already.
+
+144
+	
+
+V,8,2485
+	
+
+Thou losest labour:
+As easy mayst thou the intrenchant air
+With thy keen sword impress as make me bleed:
+Let fall thy blade on vulnerable crests;
+I bear a charmed life, which must not yield,
+To one of woman born.
+
+145
+	
+
+V,8,2495
+	
+
+Accursed be that tongue that tells me so,
+For it hath cow'd my better part of man!
+And be these juggling fiends no more believed,
+That palter with us in a double sense;
+That keep the word of promise to our ear,
+And break it to our hope. I'll not fight with thee.
+
+146
+	
+
+V,8,2506
+	
+
+I will not yield,
+To kiss the ground before young Malcolm's feet,
+And to be baited with the rabble's curse.
+Though Birnam wood be come to Dunsinane,
+And thou opposed, being of no woman born,
+Yet I will try the last. Before my body
+I throw my warlike shield. Lay on, Macduff,
+And damn'd be him that first cries, 'Hold, enough!'
+[Exeunt, fighting. Alarums]
+[Retreat. Flourish. Enter, with drum and colours,]
+
+
+MACBETHMACBETH
+
+
+
+BANQUOBANQUO
+
+1
+	
+
+I,3,139
+	
+
+How far is't call'd to Forres? What are these
+So wither'd and so wild in their attire,
+That look not like the inhabitants o' the earth,
+And yet are on't? Live you? or are you aught
+That man may question? You seem to understand me,
+By each at once her chappy finger laying
+Upon her skinny lips: you should be women,
+And yet your beards forbid me to interpret
+That you are so.
+
+2
+	
+
+I,3,152
+	
+
+Good sir, why do you start; and seem to fear
+Things that do sound so fair? I' the name of truth,
+Are ye fantastical, or that indeed
+Which outwardly ye show? My noble partner
+You greet with present grace and great prediction
+Of noble having and of royal hope,
+That he seems rapt withal: to me you speak not.
+If you can look into the seeds of time,
+And say which grain will grow and which will not,
+Speak then to me, who neither beg nor fear
+Your favours nor your hate.
+
+3
+	
+
+I,3,181
+	
+
+The earth hath bubbles, as the water has,
+And these are of them. Whither are they vanish'd?
+
+4
+	
+
+I,3,185
+	
+
+Were such things here as we do speak about?
+Or have we eaten on the insane root
+That takes the reason prisoner?
+
+5
+	
+
+I,3,189
+	
+
+You shall be king.
+
+6
+	
+
+I,3,191
+	
+
+To the selfsame tune and words. Who's here?
+
+7
+	
+
+I,3,213
+	
+
+What, can the devil speak true?
+
+8
+	
+
+I,3,232
+	
+
+That trusted home
+Might yet enkindle you unto the crown,
+Besides the thane of Cawdor. But 'tis strange:
+And oftentimes, to win us to our harm,
+The instruments of darkness tell us truths,
+Win us with honest trifles, to betray's
+In deepest consequence.
+Cousins, a word, I pray you.
+
+9
+	
+
+I,3,256
+	
+
+Look, how our partner's rapt.
+
+10
+	
+
+I,3,259
+	
+
+New horrors come upon him,
+Like our strange garments, cleave not to their mould
+But with the aid of use.
+
+11
+	
+
+I,3,264
+	
+
+Worthy Macbeth, we stay upon your leisure.
+
+12
+	
+
+I,3,272
+	
+
+Very gladly.
+
+13
+	
+
+I,4,313
+	
+
+There if I grow,
+The harvest is your own.
+
+14
+	
+
+I,6,436
+	
+
+This guest of summer,
+The temple-haunting martlet, does approve,
+By his loved mansionry, that the heaven's breath
+Smells wooingly here: no jutty, frieze,
+Buttress, nor coign of vantage, but this bird
+Hath made his pendent bed and procreant cradle:
+Where they most breed and haunt, I have observed,
+The air is delicate.
+
+15
+	
+
+II,1,569
+	
+
+How goes the night, boy?
+
+16
+	
+
+II,1,571
+	
+
+And she goes down at twelve.
+
+17
+	
+
+II,1,573
+	
+
+Hold, take my sword. There's husbandry in heaven;
+Their candles are all out. Take thee that too.
+A heavy summons lies like lead upon me,
+And yet I would not sleep: merciful powers,
+Restrain in me the cursed thoughts that nature
+Gives way to in repose!
+[Enter MACBETH, and a Servant with a torch]
+Give me my sword.
+Who's there?
+
+18
+	
+
+II,1,583
+	
+
+What, sir, not yet at rest? The king's a-bed:
+He hath been in unusual pleasure, and
+Sent forth great largess to your offices.
+This diamond he greets your wife withal,
+By the name of most kind hostess; and shut up
+In measureless content.
+
+19
+	
+
+II,1,592
+	
+
+All's well.
+I dreamt last night of the three weird sisters:
+To you they have show'd some truth.
+
+20
+	
+
+II,1,599
+	
+
+At your kind'st leisure.
+
+21
+	
+
+II,1,602
+	
+
+So I lose none
+In seeking to augment it, but still keep
+My bosom franchised and allegiance clear,
+I shall be counsell'd.
+
+22
+	
+
+II,1,607
+	
+
+Thanks, sir: the like to you!
+
+23
+	
+
+II,3,870
+	
+
+Too cruel any where.
+Dear Duff, I prithee, contradict thyself,
+And say it is not so.
+
+24
+	
+
+II,3,918
+	
+
+Look to the lady:
+[LADY MACBETH is carried out]
+And when we have our naked frailties hid,
+That suffer in exposure, let us meet,
+And question this most bloody piece of work,
+To know it further. Fears and scruples shake us:
+In the great hand of God I stand; and thence
+Against the undivulged pretence I fight
+Of treasonous malice.
+
+25
+	
+
+III,1,1002
+	
+
+Thou hast it now: king, Cawdor, Glamis, all,
+As the weird women promised, and, I fear,
+Thou play'dst most foully for't: yet it was said
+It should not stand in thy posterity,
+But that myself should be the root and father
+Of many kings. If there come truth from them—
+As upon thee, Macbeth, their speeches shine—
+Why, by the verities on thee made good,
+May they not be my oracles as well,
+And set me up in hope? But hush! no more.
+[Sennet sounded. Enter MACBETH, as king, LADY]
+MACBETH, as queen, LENNOX, ROSS, Lords, Ladies, and Attendants]
+
+26
+	
+
+III,1,1020
+	
+
+Let your highness
+Command upon me; to the which my duties
+Are with a most indissoluble tie
+For ever knit.
+
+27
+	
+
+III,1,1025
+	
+
+Ay, my good lord.
+
+28
+	
+
+III,1,1030
+	
+
+As far, my lord, as will fill up the time
+'Twixt this and supper: go not my horse the better,
+I must become a borrower of the night
+For a dark hour or twain.
+
+29
+	
+
+III,1,1035
+	
+
+My lord, I will not.
+
+30
+	
+
+III,1,1043
+	
+
+Ay, my good lord: our time does call upon 's.
+
+31
+	
+
+III,3,1245
+	
+
+[Within] Give us a light there, ho!
+
+32
+	
+
+III,3,1257
+	
+
+It will be rain to-night.
+
+33
+	
+
+III,3,1260
+	
+
+O, treachery! Fly, good Fleance, fly, fly, fly!
+Thou mayst revenge. O slave!
+
+BANQUOBANQUO
+
+
+MALCOMMALCOM
+
+
+1
+	
+
+I,2,21
+	
+
+This is the sergeant
+Who like a good and hardy soldier fought
+'Gainst my captivity. Hail, brave friend!
+Say to the king the knowledge of the broil
+As thou didst leave it.
+
+2
+	
+
+I,2,69
+	
+
+The worthy thane of Ross.
+
+3
+	
+
+I,4,278
+	
+
+My liege,
+They are not yet come back. But I have spoke
+With one that saw him die: who did report
+That very frankly he confess'd his treasons,
+Implored your highness' pardon and set forth
+A deep repentance: nothing in his life
+Became him like the leaving it; he died
+As one that had been studied in his death
+To throw away the dearest thing he owed,
+As 'twere a careless trifle.
+
+4
+	
+
+II,3,886
+	
+
+O, by whom?
+
+5
+	
+
+II,3,909
+	
+
+[Aside to DONALBAIN] Why do we hold our tongues,
+That most may claim this argument for ours?
+
+6
+	
+
+II,3,916
+	
+
+[Aside to DONALBAIN] Nor our strong sorrow
+Upon the foot of motion.
+
+7
+	
+
+II,3,933
+	
+
+What will you do? Let's not consort with them:
+To show an unfelt sorrow is an office
+Which the false man does easy. I'll to England.
+
+8
+	
+
+II,3,940
+	
+
+This murderous shaft that's shot
+Hath not yet lighted, and our safest way
+Is to avoid the aim. Therefore, to horse;
+And let us not be dainty of leave-taking,
+But shift away: there's warrant in that theft
+Which steals itself, when there's no mercy left.
+
+9
+	
+
+IV,3,1842
+	
+
+Let us seek out some desolate shade, and there
+Weep our sad bosoms empty.
+
+10
+	
+
+IV,3,1851
+	
+
+What I believe I'll wail,
+What know believe, and what I can redress,
+As I shall find the time to friend, I will.
+What you have spoke, it may be so perchance.
+This tyrant, whose sole name blisters our tongues,
+Was once thought honest: you have loved him well.
+He hath not touch'd you yet. I am young;
+but something
+You may deserve of him through me, and wisdom
+To offer up a weak poor innocent lamb
+To appease an angry god.
+
+11
+	
+
+IV,3,1863
+	
+
+But Macbeth is.
+A good and virtuous nature may recoil
+In an imperial charge. But I shall crave
+your pardon;
+That which you are my thoughts cannot transpose:
+Angels are bright still, though the brightest fell;
+Though all things foul would wear the brows of grace,
+Yet grace must still look so.
+
+12
+	
+
+IV,3,1872
+	
+
+Perchance even there where I did find my doubts.
+Why in that rawness left you wife and child,
+Those precious motives, those strong knots of love,
+Without leave-taking? I pray you,
+Let not my jealousies be your dishonours,
+But mine own safeties. You may be rightly just,
+Whatever I shall think.
+
+13
+	
+
+IV,3,1887
+	
+
+Be not offended:
+I speak not as in absolute fear of you.
+I think our country sinks beneath the yoke;
+It weeps, it bleeds; and each new day a gash
+Is added to her wounds: I think withal
+There would be hands uplifted in my right;
+And here from gracious England have I offer
+Of goodly thousands: but, for all this,
+When I shall tread upon the tyrant's head,
+Or wear it on my sword, yet my poor country
+Shall have more vices than it had before,
+More suffer and more sundry ways than ever,
+By him that shall succeed.
+
+14
+	
+
+IV,3,1901
+	
+
+It is myself I mean: in whom I know
+All the particulars of vice so grafted
+That, when they shall be open'd, black Macbeth
+Will seem as pure as snow, and the poor state
+Esteem him as a lamb, being compared
+With my confineless harms.
+
+15
+	
+
+IV,3,1910
+	
+
+I grant him bloody,
+Luxurious, avaricious, false, deceitful,
+Sudden, malicious, smacking of every sin
+That has a name: but there's no bottom, none,
+In my voluptuousness: your wives, your daughters,
+Your matrons and your maids, could not fill up
+The cistern of my lust, and my desire
+All continent impediments would o'erbear
+That did oppose my will: better Macbeth
+Than such an one to reign.
+
+16
+	
+
+IV,3,1931
+	
+
+With this there grows
+In my most ill-composed affection such
+A stanchless avarice that, were I king,
+I should cut off the nobles for their lands,
+Desire his jewels and this other's house:
+And my more-having would be as a sauce
+To make me hunger more; that I should forge
+Quarrels unjust against the good and loyal,
+Destroying them for wealth.
+
+17
+	
+
+IV,3,1947
+	
+
+But I have none: the king-becoming graces,
+As justice, verity, temperance, stableness,
+Bounty, perseverance, mercy, lowliness,
+Devotion, patience, courage, fortitude,
+I have no relish of them, but abound
+In the division of each several crime,
+Acting it many ways. Nay, had I power, I should
+Pour the sweet milk of concord into hell,
+Uproar the universal peace, confound
+All unity on earth.
+
+18
+	
+
+IV,3,1958
+	
+
+If such a one be fit to govern, speak:
+I am as I have spoken.
+
+19
+	
+
+IV,3,1973
+	
+
+Macduff, this noble passion,
+Child of integrity, hath from my soul
+Wiped the black scruples, reconciled my thoughts
+To thy good truth and honour. Devilish Macbeth
+By many of these trains hath sought to win me
+Into his power, and modest wisdom plucks me
+From over-credulous haste: but God above
+Deal between thee and me! for even now
+I put myself to thy direction, and
+Unspeak mine own detraction, here abjure
+The taints and blames I laid upon myself,
+For strangers to my nature. I am yet
+Unknown to woman, never was forsworn,
+Scarcely have coveted what was mine own,
+At no time broke my faith, would not betray
+The devil to his fellow and delight
+No less in truth than life: my first false speaking
+Was this upon myself: what I am truly,
+Is thine and my poor country's to command:
+Whither indeed, before thy here-approach,
+Old Siward, with ten thousand warlike men,
+Already at a point, was setting forth.
+Now we'll together; and the chance of goodness
+Be like our warranted quarrel! Why are you silent?
+
+20
+	
+
+IV,3,2000
+	
+
+Well; more anon.—Comes the king forth, I pray you?
+
+21
+	
+
+IV,3,2006
+	
+
+I thank you, doctor.
+
+22
+	
+
+IV,3,2009
+	
+
+'Tis call'd the evil:
+A most miraculous work in this good king;
+Which often, since my here-remain in England,
+I have seen him do. How he solicits heaven,
+Himself best knows: but strangely-visited people,
+All swoln and ulcerous, pitiful to the eye,
+The mere despair of surgery, he cures,
+Hanging a golden stamp about their necks,
+Put on with holy prayers: and 'tis spoken,
+To the succeeding royalty he leaves
+The healing benediction. With this strange virtue,
+He hath a heavenly gift of prophecy,
+And sundry blessings hang about his throne,
+That speak him full of grace.
+
+23
+	
+
+IV,3,2025
+	
+
+My countryman; but yet I know him not.
+
+24
+	
+
+IV,3,2027
+	
+
+I know him now. Good God, betimes remove
+The means that makes us strangers!
+
+25
+	
+
+IV,3,2043
+	
+
+What's the newest grief?
+
+26
+	
+
+IV,3,2061
+	
+
+Be't their comfort
+We are coming thither: gracious England hath
+Lent us good Siward and ten thousand men;
+An older and a better soldier none
+That Christendom gives out.
+
+27
+	
+
+IV,3,2086
+	
+
+Merciful heaven!
+What, man! ne'er pull your hat upon your brows;
+Give sorrow words: the grief that does not speak
+Whispers the o'er-fraught heart and bids it break.
+
+28
+	
+
+IV,3,2096
+	
+
+Be comforted:
+Let's make us medicines of our great revenge,
+To cure this deadly grief.
+
+29
+	
+
+IV,3,2103
+	
+
+Dispute it like a man.
+
+30
+	
+
+IV,3,2112
+	
+
+Be this the whetstone of your sword: let grief
+Convert to anger; blunt not the heart, enrage it.
+
+31
+	
+
+IV,3,2120
+	
+
+This tune goes manly.
+Come, go we to the king; our power is ready;
+Our lack is nothing but our leave; Macbeth
+Is ripe for shaking, and the powers above
+Put on their instruments. Receive what cheer you may:
+The night is long that never finds the day.
+
+32
+	
+
+V,4,2324
+	
+
+Cousins, I hope the days are near at hand
+That chambers will be safe.
+
+33
+	
+
+V,4,2329
+	
+
+Let every soldier hew him down a bough
+And bear't before him: thereby shall we shadow
+The numbers of our host and make discovery
+Err in report of us.
+
+34
+	
+
+V,4,2337
+	
+
+'Tis his main hope:
+For where there is advantage to be given,
+Both more and less have given him the revolt,
+And none serve with him but constrained things
+Whose hearts are absent too.
+
+35
+	
+
+V,6,2417
+	
+
+Now near enough: your leafy screens throw down.
+And show like those you are. You, worthy uncle,
+Shall, with my cousin, your right-noble son,
+Lead our first battle: worthy Macduff and we
+Shall take upon 's what else remains to do,
+According to our order.
+
+36
+	
+
+V,7,2468
+	
+
+We have met with foes
+That strike beside us.
+
+37
+	
+
+V,8,2517
+	
+
+I would the friends we miss were safe arrived.
+
+38
+	
+
+V,8,2520
+	
+
+Macduff is missing, and your noble son.
+
+39
+	
+
+V,8,2536
+	
+
+He's worth more sorrow,
+And that I'll spend for him.
+
+40
+	
+
+V,8,2550
+	
+
+We shall not spend a large expense of time
+Before we reckon with your several loves,
+And make us even with you. My thanes and kinsmen,
+Henceforth be earls, the first that ever Scotland
+In such an honour named. What's more to do,
+Which would be planted newly with the time,
+As calling home our exiled friends abroad
+That fled the snares of watchful tyranny;
+Producing forth the cruel ministers
+Of this dead butcher and his fiend-like queen,
+Who, as 'tis thought, by self and violent hands
+Took off her life; this, and what needful else
+That calls upon us, by the grace of Grace,
+We will perform in measure, time and place:
+So, thanks to all at once and to each one,
+Whom we invite to see us crown'd at Scone.
+
+
+MALCOMMALCOM
+
+
+
+LADYMACBETHLADYMACBETH
+
+1
+	
+
+I,5,345
+	
+
+'They met me in the day of success: and I have
+learned by the perfectest report, they have more in
+them than mortal knowledge. When I burned in desire
+to question them further, they made themselves air,
+into which they vanished. Whiles I stood rapt in
+the wonder of it, came missives from the king, who
+all-hailed me 'Thane of Cawdor;' by which title,
+before, these weird sisters saluted me, and referred
+me to the coming on of time, with 'Hail, king that
+shalt be!' This have I thought good to deliver
+thee, my dearest partner of greatness, that thou
+mightst not lose the dues of rejoicing, by being
+ignorant of what greatness is promised thee. Lay it
+to thy heart, and farewell.'
+Glamis thou art, and Cawdor; and shalt be
+What thou art promised: yet do I fear thy nature;
+It is too full o' the milk of human kindness
+To catch the nearest way: thou wouldst be great;
+Art not without ambition, but without
+The illness should attend it: what thou wouldst highly,
+That wouldst thou holily; wouldst not play false,
+And yet wouldst wrongly win: thou'ldst have, great Glamis,
+That which cries 'Thus thou must do, if thou have it;
+And that which rather thou dost fear to do
+Than wishest should be undone.' Hie thee hither,
+That I may pour my spirits in thine ear;
+And chastise with the valour of my tongue
+All that impedes thee from the golden round,
+Which fate and metaphysical aid doth seem
+To have thee crown'd withal.
+[Enter a Messenger]
+What is your tidings?
+
+2
+	
+
+I,5,378
+	
+
+Thou'rt mad to say it:
+Is not thy master with him? who, were't so,
+Would have inform'd for preparation.
+
+3
+	
+
+I,5,385
+	
+
+Give him tending;
+He brings great news.
+[Exit Messenger]
+The raven himself is hoarse
+That croaks the fatal entrance of Duncan
+Under my battlements. Come, you spirits
+That tend on mortal thoughts, unsex me here,
+And fill me from the crown to the toe top-full
+Of direst cruelty! make thick my blood;
+Stop up the access and passage to remorse,
+That no compunctious visitings of nature
+Shake my fell purpose, nor keep peace between
+The effect and it! Come to my woman's breasts,
+And take my milk for gall, you murdering ministers,
+Wherever in your sightless substances
+You wait on nature's mischief! Come, thick night,
+And pall thee in the dunnest smoke of hell,
+That my keen knife see not the wound it makes,
+Nor heaven peep through the blanket of the dark,
+To cry 'Hold, hold!'
+[Enter MACBETH]
+Great Glamis! worthy Cawdor!
+Greater than both, by the all-hail hereafter!
+Thy letters have transported me beyond
+This ignorant present, and I feel now
+The future in the instant.
+
+4
+	
+
+I,5,413
+	
+
+And when goes hence?
+
+5
+	
+
+I,5,415
+	
+
+O, never
+Shall sun that morrow see!
+Your face, my thane, is as a book where men
+May read strange matters. To beguile the time,
+Look like the time; bear welcome in your eye,
+Your hand, your tongue: look like the innocent flower,
+But be the serpent under't. He that's coming
+Must be provided for: and you shall put
+This night's great business into my dispatch;
+Which shall to all our nights and days to come
+Give solely sovereign sway and masterdom.
+
+6
+	
+
+I,5,427
+	
+
+Only look up clear;
+To alter favour ever is to fear:
+Leave all the rest to me.
+
+7
+	
+
+I,6,450
+	
+
+All our service
+In every point twice done and then done double
+Were poor and single business to contend
+Against those honours deep and broad wherewith
+Your majesty loads our house: for those of old,
+And the late dignities heap'd up to them,
+We rest your hermits.
+
+8
+	
+
+I,6,463
+	
+
+Your servants ever
+Have theirs, themselves and what is theirs, in compt,
+To make their audit at your highness' pleasure,
+Still to return your own.
+
+9
+	
+
+I,7,504
+	
+
+He has almost supp'd: why have you left the chamber?
+
+10
+	
+
+I,7,506
+	
+
+Know you not he has?
+
+11
+	
+
+I,7,512
+	
+
+Was the hope drunk
+Wherein you dress'd yourself? hath it slept since?
+And wakes it now, to look so green and pale
+At what it did so freely? From this time
+Such I account thy love. Art thou afeard
+To be the same in thine own act and valour
+As thou art in desire? Wouldst thou have that
+Which thou esteem'st the ornament of life,
+And live a coward in thine own esteem,
+Letting 'I dare not' wait upon 'I would,'
+Like the poor cat i' the adage?
+
+12
+	
+
+I,7,526
+	
+
+What beast was't, then,
+That made you break this enterprise to me?
+When you durst do it, then you were a man;
+And, to be more than what you were, you would
+Be so much more the man. Nor time nor place
+Did then adhere, and yet you would make both:
+They have made themselves, and that their fitness now
+Does unmake you. I have given suck, and know
+How tender 'tis to love the babe that milks me:
+I would, while it was smiling in my face,
+Have pluck'd my nipple from his boneless gums,
+And dash'd the brains out, had I so sworn as you
+Have done to this.
+
+13
+	
+
+I,7,540
+	
+
+We fail!
+But screw your courage to the sticking-place,
+And we'll not fail. When Duncan is asleep—
+Whereto the rather shall his day's hard journey
+Soundly invite him—his two chamberlains
+Will I with wine and wassail so convince
+That memory, the warder of the brain,
+Shall be a fume, and the receipt of reason
+A limbeck only: when in swinish sleep
+Their drenched natures lie as in a death,
+What cannot you and I perform upon
+The unguarded Duncan? what not put upon
+His spongy officers, who shall bear the guilt
+Of our great quell?
+
+14
+	
+
+I,7,560
+	
+
+Who dares receive it other,
+As we shall make our griefs and clamour roar
+Upon his death?
+
+15
+	
+
+II,2,647
+	
+
+That which hath made them drunk hath made me bold;
+What hath quench'd them hath given me fire.
+Hark! Peace!
+It was the owl that shriek'd, the fatal bellman,
+Which gives the stern'st good-night. He is about it:
+The doors are open; and the surfeited grooms
+Do mock their charge with snores: I have drugg'd
+their possets,
+That death and nature do contend about them,
+Whether they live or die.
+
+16
+	
+
+II,2,658
+	
+
+Alack, I am afraid they have awaked,
+And 'tis not done. The attempt and not the deed
+Confounds us. Hark! I laid their daggers ready;
+He could not miss 'em. Had he not resembled
+My father as he slept, I had done't.
+[Enter MACBETH]
+My husband!
+
+17
+	
+
+II,2,666
+	
+
+I heard the owl scream and the crickets cry.
+Did not you speak?
+
+18
+	
+
+II,2,669
+	
+
+Now.
+
+19
+	
+
+II,2,671
+	
+
+Ay.
+
+20
+	
+
+II,2,674
+	
+
+Donalbain.
+
+21
+	
+
+II,2,677
+	
+
+A foolish thought, to say a sorry sight.
+
+22
+	
+
+II,2,683
+	
+
+There are two lodged together.
+
+23
+	
+
+II,2,688
+	
+
+Consider it not so deeply.
+
+24
+	
+
+II,2,692
+	
+
+These deeds must not be thought
+After these ways; so, it will make us mad.
+
+25
+	
+
+II,2,700
+	
+
+What do you mean?
+
+26
+	
+
+II,2,704
+	
+
+Who was it that thus cried? Why, worthy thane,
+You do unbend your noble strength, to think
+So brainsickly of things. Go get some water,
+And wash this filthy witness from your hand.
+Why did you bring these daggers from the place?
+They must lie there: go carry them; and smear
+The sleepy grooms with blood.
+
+27
+	
+
+II,2,714
+	
+
+Infirm of purpose!
+Give me the daggers: the sleeping and the dead
+Are but as pictures: 'tis the eye of childhood
+That fears a painted devil. If he do bleed,
+I'll gild the faces of the grooms withal;
+For it must seem their guilt.
+
+28
+	
+
+II,2,729
+	
+
+My hands are of your colour; but I shame
+To wear a heart so white.
+[Knocking within]
+I hear a knocking
+At the south entry: retire we to our chamber;
+A little water clears us of this deed:
+How easy is it, then! Your constancy
+Hath left you unattended.
+[Knocking within]
+Hark! more knocking.
+Get on your nightgown, lest occasion call us,
+And show us to be watchers. Be not lost
+So poorly in your thoughts.
+
+29
+	
+
+II,3,858
+	
+
+What's the business,
+That such a hideous trumpet calls to parley
+The sleepers of the house? speak, speak!
+
+30
+	
+
+II,3,868
+	
+
+Woe, alas!
+What, in our house?
+
+31
+	
+
+II,3,907
+	
+
+Help me hence, ho!
+
+32
+	
+
+III,1,1015
+	
+
+If he had been forgotten,
+It had been as a gap in our great feast,
+And all-thing unbecoming.
+
+33
+	
+
+III,2,1168
+	
+
+Is Banquo gone from court?
+
+34
+	
+
+III,2,1170
+	
+
+Say to the king, I would attend his leisure
+For a few words.
+
+35
+	
+
+III,2,1174
+	
+
+Nought's had, all's spent,
+Where our desire is got without content:
+'Tis safer to be that which we destroy
+Than by destruction dwell in doubtful joy.
+[Enter MACBETH]
+How now, my lord! why do you keep alone,
+Of sorriest fancies your companions making,
+Using those thoughts which should indeed have died
+With them they think on? Things without all remedy
+Should be without regard: what's done is done.
+
+36
+	
+
+III,2,1199
+	
+
+Come on;
+Gentle my lord, sleek o'er your rugged looks;
+Be bright and jovial among your guests to-night.
+
+37
+	
+
+III,2,1209
+	
+
+You must leave this.
+
+38
+	
+
+III,2,1212
+	
+
+But in them nature's copy's not eterne.
+
+39
+	
+
+III,2,1219
+	
+
+What's to be done?
+
+40
+	
+
+III,4,1279
+	
+
+Pronounce it for me, sir, to all our friends;
+For my heart speaks they are welcome.
+
+41
+	
+
+III,4,1311
+	
+
+My royal lord,
+You do not give the cheer: the feast is sold
+That is not often vouch'd, while 'tis a-making,
+'Tis given with welcome: to feed were best at home;
+From thence the sauce to meat is ceremony;
+Meeting were bare without it.
+
+42
+	
+
+III,4,1339
+	
+
+Sit, worthy friends: my lord is often thus,
+And hath been from his youth: pray you, keep seat;
+The fit is momentary; upon a thought
+He will again be well: if much you note him,
+You shall offend him and extend his passion:
+Feed, and regard him not. Are you a man?
+
+43
+	
+
+III,4,1347
+	
+
+O proper stuff!
+This is the very painting of your fear:
+This is the air-drawn dagger which, you said,
+Led you to Duncan. O, these flaws and starts,
+Impostors to true fear, would well become
+A woman's story at a winter's fire,
+Authorized by her grandam. Shame itself!
+Why do you make such faces? When all's done,
+You look but on a stool.
+
+44
+	
+
+III,4,1363
+	
+
+What, quite unmann'd in folly?
+
+45
+	
+
+III,4,1365
+	
+
+Fie, for shame!
+
+46
+	
+
+III,4,1375
+	
+
+My worthy lord,
+Your noble friends do lack you.
+
+47
+	
+
+III,4,1392
+	
+
+Think of this, good peers,
+But as a thing of custom: 'tis no other;
+Only it spoils the pleasure of the time.
+
+48
+	
+
+III,4,1407
+	
+
+You have displaced the mirth, broke the good meeting,
+With most admired disorder.
+
+49
+	
+
+III,4,1417
+	
+
+I pray you, speak not; he grows worse and worse;
+Question enrages him. At once, good night:
+Stand not upon the order of your going,
+But go at once.
+
+50
+	
+
+III,4,1423
+	
+
+A kind good night to all!
+
+51
+	
+
+III,4,1430
+	
+
+Almost at odds with morning, which is which.
+
+52
+	
+
+III,4,1433
+	
+
+Did you send to him, sir?
+
+53
+	
+
+III,4,1445
+	
+
+You lack the season of all natures, sleep.
+
+54
+	
+
+V,1,2156
+	
+
+Yet here's a spot.
+
+55
+	
+
+V,1,2159
+	
+
+Out, damned spot! out, I say!—One: two: why,
+then, 'tis time to do't.—Hell is murky!—Fie, my
+lord, fie! a soldier, and afeard? What need we
+fear who knows it, when none can call our power to
+account?—Yet who would have thought the old man
+to have had so much blood in him.
+
+56
+	
+
+V,1,2166
+	
+
+The thane of Fife had a wife: where is she now?—
+What, will these hands ne'er be clean?—No more o'
+that, my lord, no more o' that: you mar all with
+this starting.
+
+57
+	
+
+V,1,2173
+	
+
+Here's the smell of the blood still: all the
+perfumes of Arabia will not sweeten this little
+hand. Oh, oh, oh!
+
+58
+	
+
+V,1,2184
+	
+
+Wash your hands, put on your nightgown; look not so
+pale.—I tell you yet again, Banquo's buried; he
+cannot come out on's grave.
+
+59
+	
+
+V,1,2188
+	
+
+To bed, to bed! there's knocking at the gate:
+come, come, come, come, give me your hand. What's
+done cannot be undone.—To bed, to bed, to bed!
+
+LADYMACBETHLADYMACBETH
+
+
+
+MACDUFFMACDUFF
+
+1
+	
+
+II,3,782
+	
+
+Was it so late, friend, ere you went to bed,
+That you do lie so late?
+
+2
+	
+
+II,3,787
+	
+
+What three things does drink especially provoke?
+
+3
+	
+
+II,3,798
+	
+
+I believe drink gave thee the lie last night.
+
+4
+	
+
+II,3,804
+	
+
+Is thy master stirring?
+[Enter MACBETH]
+Our knocking has awaked him; here he comes.
+
+5
+	
+
+II,3,809
+	
+
+Is the king stirring, worthy thane?
+
+6
+	
+
+II,3,811
+	
+
+He did command me to call timely on him:
+I have almost slipp'd the hour.
+
+7
+	
+
+II,3,814
+	
+
+I know this is a joyful trouble to you;
+But yet 'tis one.
+
+8
+	
+
+II,3,818
+	
+
+I'll make so bold to call,
+For 'tis my limited service.
+
+9
+	
+
+II,3,835
+	
+
+O horror, horror, horror! Tongue nor heart
+Cannot conceive nor name thee!
+
+10
+	
+
+II,3,838
+	
+
+Confusion now hath made his masterpiece!
+Most sacrilegious murder hath broke ope
+The Lord's anointed temple, and stole thence
+The life o' the building!
+
+11
+	
+
+II,3,844
+	
+
+Approach the chamber, and destroy your sight
+With a new Gorgon: do not bid me speak;
+See, and then speak yourselves.
+[Exeunt MACBETH and LENNOX]
+Awake, awake!
+Ring the alarum-bell. Murder and treason!
+Banquo and Donalbain! Malcolm! awake!
+Shake off this downy sleep, death's counterfeit,
+And look on death itself! up, up, and see
+The great doom's image! Malcolm! Banquo!
+As from your graves rise up, and walk like sprites,
+To countenance this horror! Ring the bell.
+
+12
+	
+
+II,3,861
+	
+
+O gentle lady,
+'Tis not for you to hear what I can speak:
+The repetition, in a woman's ear,
+Would murder as it fell.
+[Enter BANQUO]
+O Banquo, Banquo,
+Our royal master 's murder'd!
+
+13
+	
+
+II,3,885
+	
+
+Your royal father 's murder'd.
+
+14
+	
+
+II,3,895
+	
+
+Wherefore did you so?
+
+15
+	
+
+II,3,908
+	
+
+Look to the lady.
+
+16
+	
+
+II,3,927
+	
+
+And so do I.
+
+17
+	
+
+II,4,973
+	
+
+Why, see you not?
+
+18
+	
+
+II,4,975
+	
+
+Those that Macbeth hath slain.
+
+19
+	
+
+II,4,978
+	
+
+They were suborn'd:
+Malcolm and Donalbain, the king's two sons,
+Are stol'n away and fled; which puts upon them
+Suspicion of the deed.
+
+20
+	
+
+II,4,986
+	
+
+He is already named, and gone to Scone
+To be invested.
+
+21
+	
+
+II,4,989
+	
+
+Carried to Colmekill,
+The sacred storehouse of his predecessors,
+And guardian of their bones.
+
+22
+	
+
+II,4,993
+	
+
+No, cousin, I'll to Fife.
+
+23
+	
+
+II,4,995
+	
+
+Well, may you see things well done there: adieu!
+Lest our old robes sit easier than our new!
+
+24
+	
+
+IV,3,1844
+	
+
+Let us rather
+Hold fast the mortal sword, and like good men
+Bestride our down-fall'n birthdom: each new morn
+New widows howl, new orphans cry, new sorrows
+Strike heaven on the face, that it resounds
+As if it felt with Scotland and yell'd out
+Like syllable of dolour.
+
+25
+	
+
+IV,3,1862
+	
+
+I am not treacherous.
+
+26
+	
+
+IV,3,1871
+	
+
+I have lost my hopes.
+
+27
+	
+
+IV,3,1879
+	
+
+Bleed, bleed, poor country!
+Great tyranny! lay thou thy basis sure,
+For goodness dare not cheque thee: wear thou
+thy wrongs;
+The title is affeer'd! Fare thee well, lord:
+I would not be the villain that thou think'st
+For the whole space that's in the tyrant's grasp,
+And the rich East to boot.
+
+28
+	
+
+IV,3,1900
+	
+
+What should he be?
+
+29
+	
+
+IV,3,1907
+	
+
+Not in the legions
+Of horrid hell can come a devil more damn'd
+In evils to top Macbeth.
+
+30
+	
+
+IV,3,1920
+	
+
+Boundless intemperance
+In nature is a tyranny; it hath been
+The untimely emptying of the happy throne
+And fall of many kings. But fear not yet
+To take upon you what is yours: you may
+Convey your pleasures in a spacious plenty,
+And yet seem cold, the time you may so hoodwink.
+We have willing dames enough: there cannot be
+That vulture in you, to devour so many
+As will to greatness dedicate themselves,
+Finding it so inclined.
+
+31
+	
+
+IV,3,1940
+	
+
+This avarice
+Sticks deeper, grows with more pernicious root
+Than summer-seeming lust, and it hath been
+The sword of our slain kings: yet do not fear;
+Scotland hath foisons to fill up your will.
+Of your mere own: all these are portable,
+With other graces weigh'd.
+
+32
+	
+
+IV,3,1957
+	
+
+O Scotland, Scotland!
+
+33
+	
+
+IV,3,1960
+	
+
+Fit to govern!
+No, not to live. O nation miserable,
+With an untitled tyrant bloody-scepter'd,
+When shalt thou see thy wholesome days again,
+Since that the truest issue of thy throne
+By his own interdiction stands accursed,
+And does blaspheme his breed? Thy royal father
+Was a most sainted king: the queen that bore thee,
+Oftener upon her knees than on her feet,
+Died every day she lived. Fare thee well!
+These evils thou repeat'st upon thyself
+Have banish'd me from Scotland. O my breast,
+Thy hope ends here!
+
+34
+	
+
+IV,3,1997
+	
+
+Such welcome and unwelcome things at once
+'Tis hard to reconcile.
+
+35
+	
+
+IV,3,2008
+	
+
+What's the disease he means?
+
+36
+	
+
+IV,3,2024
+	
+
+See, who comes here?
+
+37
+	
+
+IV,3,2026
+	
+
+My ever-gentle cousin, welcome hither.
+
+38
+	
+
+IV,3,2030
+	
+
+Stands Scotland where it did?
+
+39
+	
+
+IV,3,2041
+	
+
+O, relation
+Too nice, and yet too true!
+
+40
+	
+
+IV,3,2046
+	
+
+How does my wife?
+
+41
+	
+
+IV,3,2048
+	
+
+And all my children?
+
+42
+	
+
+IV,3,2050
+	
+
+The tyrant has not batter'd at their peace?
+
+43
+	
+
+IV,3,2052
+	
+
+But not a niggard of your speech: how goes't?
+
+44
+	
+
+IV,3,2070
+	
+
+What concern they?
+The general cause? or is it a fee-grief
+Due to some single breast?
+
+45
+	
+
+IV,3,2076
+	
+
+If it be mine,
+Keep it not from me, quickly let me have it.
+
+46
+	
+
+IV,3,2081
+	
+
+Hum! I guess at it.
+
+47
+	
+
+IV,3,2090
+	
+
+My children too?
+
+48
+	
+
+IV,3,2093
+	
+
+And I must be from thence!
+My wife kill'd too?
+
+49
+	
+
+IV,3,2099
+	
+
+He has no children. All my pretty ones?
+Did you say all? O hell-kite! All?
+What, all my pretty chickens and their dam
+At one fell swoop?
+
+50
+	
+
+IV,3,2104
+	
+
+I shall do so;
+But I must also feel it as a man:
+I cannot but remember such things were,
+That were most precious to me. Did heaven look on,
+And would not take their part? Sinful Macduff,
+They were all struck for thee! naught that I am,
+Not for their own demerits, but for mine,
+Fell slaughter on their souls. Heaven rest them now!
+
+51
+	
+
+IV,3,2114
+	
+
+O, I could play the woman with mine eyes
+And braggart with my tongue! But, gentle heavens,
+Cut short all intermission; front to front
+Bring thou this fiend of Scotland and myself;
+Within my sword's length set him; if he 'scape,
+Heaven forgive him too!
+
+52
+	
+
+V,4,2342
+	
+
+Let our just censures
+Attend the true event, and put we on
+Industrious soldiership.
+
+53
+	
+
+V,6,2426
+	
+
+Make all our trumpets speak; give them all breath,
+Those clamorous harbingers of blood and death.
+
+54
+	
+
+V,7,2451
+	
+
+That way the noise is. Tyrant, show thy face!
+If thou be'st slain and with no stroke of mine,
+My wife and children's ghosts will haunt me still.
+I cannot strike at wretched kerns, whose arms
+Are hired to bear their staves: either thou, Macbeth,
+Or else my sword with an unbatter'd edge
+I sheathe again undeeded. There thou shouldst be;
+By this great clatter, one of greatest note
+Seems bruited. Let me find him, fortune!
+And more I beg not.
+
+55
+	
+
+V,8,2477
+	
+
+Turn, hell-hound, turn!
+
+56
+	
+
+V,8,2481
+	
+
+I have no words:
+My voice is in my sword: thou bloodier villain
+Than terms can give thee out!
+
+57
+	
+
+V,8,2491
+	
+
+Despair thy charm;
+And let the angel whom thou still hast served
+Tell thee, Macduff was from his mother's womb
+Untimely ripp'd.
+
+58
+	
+
+V,8,2501
+	
+
+Then yield thee, coward,
+And live to be the show and gaze o' the time:
+We'll have thee, as our rarer monsters are,
+Painted on a pole, and underwrit,
+'Here may you see the tyrant.'
+
+59
+	
+
+V,8,2542
+	
+
+Hail, king! for so thou art: behold, where stands
+The usurper's cursed head: the time is free:
+I see thee compass'd with thy kingdom's pearl,
+That speak my salutation in their minds;
+Whose voices I desire aloud with mine:
+Hail, King of Scotland!
+
+MACDUFFMACDUFF
+
+
+ROSSROSS
+
+1
+	
+
+I,2,72
+	
+
+God save the king!
+
+2
+	
+
+I,2,74
+	
+
+From Fife, great king;
+Where the Norweyan banners flout the sky
+And fan our people cold. Norway himself,
+With terrible numbers,
+Assisted by that most disloyal traitor
+The thane of Cawdor, began a dismal conflict;
+Till that Bellona's bridegroom, lapp'd in proof,
+Confronted him with self-comparisons,
+Point against point rebellious, arm 'gainst arm.
+Curbing his lavish spirit: and, to conclude,
+The victory fell on us.
+
+3
+	
+
+I,2,86
+	
+
+That now
+Sweno, the Norways' king, craves composition:
+Nor would we deign him burial of his men
+Till he disbursed at Saint Colme's inch
+Ten thousand dollars to our general use.
+
+4
+	
+
+I,2,94
+	
+
+I'll see it done.
+
+5
+	
+
+I,3,193
+	
+
+The king hath happily received, Macbeth,
+The news of thy success; and when he reads
+Thy personal venture in the rebels' fight,
+His wonders and his praises do contend
+Which should be thine or his: silenced with that,
+In viewing o'er the rest o' the selfsame day,
+He finds thee in the stout Norweyan ranks,
+Nothing afeard of what thyself didst make,
+Strange images of death. As thick as hail
+Came post with post; and every one did bear
+Thy praises in his kingdom's great defence,
+And pour'd them down before him.
+
+6
+	
+
+I,3,209
+	
+
+And, for an earnest of a greater honour,
+He bade me, from him, call thee thane of Cawdor:
+In which addition, hail, most worthy thane!
+For it is thine.
+
+7
+	
+
+II,4,952
+	
+
+Ah, good father,
+Thou seest, the heavens, as troubled with man's act,
+Threaten his bloody stage: by the clock, 'tis day,
+And yet dark night strangles the travelling lamp:
+Is't night's predominance, or the day's shame,
+That darkness does the face of earth entomb,
+When living light should kiss it?
+
+8
+	
+
+II,4,963
+	
+
+And Duncan's horses—a thing most strange and certain—
+Beauteous and swift, the minions of their race,
+Turn'd wild in nature, broke their stalls, flung out,
+Contending 'gainst obedience, as they would make
+War with mankind.
+
+9
+	
+
+II,4,969
+	
+
+They did so, to the amazement of mine eyes
+That look'd upon't. Here comes the good Macduff.
+[Enter MACDUFF]
+How goes the world, sir, now?
+
+10
+	
+
+II,4,974
+	
+
+Is't known who did this more than bloody deed?
+
+11
+	
+
+II,4,976
+	
+
+Alas, the day!
+What good could they pretend?
+
+12
+	
+
+II,4,982
+	
+
+'Gainst nature still!
+Thriftless ambition, that wilt ravin up
+Thine own life's means! Then 'tis most like
+The sovereignty will fall upon Macbeth.
+
+13
+	
+
+II,4,988
+	
+
+Where is Duncan's body?
+
+14
+	
+
+II,4,992
+	
+
+Will you to Scone?
+
+15
+	
+
+II,4,994
+	
+
+Well, I will thither.
+
+16
+	
+
+II,4,997
+	
+
+Farewell, father.
+
+17
+	
+
+III,4,1327
+	
+
+His absence, sir,
+Lays blame upon his promise. Please't your highness
+To grace us with your royal company.
+
+18
+	
+
+III,4,1338
+	
+
+Gentlemen, rise: his highness is not well.
+
+19
+	
+
+III,4,1416
+	
+
+What sights, my lord?
+
+20
+	
+
+IV,2,1740
+	
+
+You must have patience, madam.
+
+21
+	
+
+IV,2,1744
+	
+
+You know not
+Whether it was his wisdom or his fear.
+
+22
+	
+
+IV,2,1755
+	
+
+My dearest coz,
+I pray you, school yourself: but for your husband,
+He is noble, wise, judicious, and best knows
+The fits o' the season. I dare not speak
+much further;
+But cruel are the times, when we are traitors
+And do not know ourselves, when we hold rumour
+From what we fear, yet know not what we fear,
+But float upon a wild and violent sea
+Each way and move. I take my leave of you:
+Shall not be long but I'll be here again:
+Things at the worst will cease, or else climb upward
+To what they were before. My pretty cousin,
+Blessing upon you!
+
+23
+	
+
+IV,2,1770
+	
+
+I am so much a fool, should I stay longer,
+It would be my disgrace and your discomfort:
+I take my leave at once.
+
+24
+	
+
+IV,3,2029
+	
+
+Sir, amen.
+
+25
+	
+
+IV,3,2031
+	
+
+Alas, poor country!
+Almost afraid to know itself. It cannot
+Be call'd our mother, but our grave; where nothing,
+But who knows nothing, is once seen to smile;
+Where sighs and groans and shrieks that rend the air
+Are made, not mark'd; where violent sorrow seems
+A modern ecstasy; the dead man's knell
+Is there scarce ask'd for who; and good men's lives
+Expire before the flowers in their caps,
+Dying or ere they sicken.
+
+26
+	
+
+IV,3,2044
+	
+
+That of an hour's age doth hiss the speaker:
+Each minute teems a new one.
+
+27
+	
+
+IV,3,2047
+	
+
+Why, well.
+
+28
+	
+
+IV,3,2049
+	
+
+Well too.
+
+29
+	
+
+IV,3,2051
+	
+
+No; they were well at peace when I did leave 'em.
+
+30
+	
+
+IV,3,2053
+	
+
+When I came hither to transport the tidings,
+Which I have heavily borne, there ran a rumour
+Of many worthy fellows that were out;
+Which was to my belief witness'd the rather,
+For that I saw the tyrant's power a-foot:
+Now is the time of help; your eye in Scotland
+Would create soldiers, make our women fight,
+To doff their dire distresses.
+
+31
+	
+
+IV,3,2066
+	
+
+Would I could answer
+This comfort with the like! But I have words
+That would be howl'd out in the desert air,
+Where hearing should not latch them.
+
+32
+	
+
+IV,3,2073
+	
+
+No mind that's honest
+But in it shares some woe; though the main part
+Pertains to you alone.
+
+33
+	
+
+IV,3,2078
+	
+
+Let not your ears despise my tongue for ever,
+Which shall possess them with the heaviest sound
+That ever yet they heard.
+
+34
+	
+
+IV,3,2082
+	
+
+Your castle is surprised; your wife and babes
+Savagely slaughter'd: to relate the manner,
+Were, on the quarry of these murder'd deer,
+To add the death of you.
+
+35
+	
+
+IV,3,2091
+	
+
+Wife, children, servants, all
+That could be found.
+
+36
+	
+
+IV,3,2095
+	
+
+I have said.
+
+37
+	
+
+V,8,2521
+	
+
+Your son, my lord, has paid a soldier's debt:
+He only lived but till he was a man;
+The which no sooner had his prowess confirm'd
+In the unshrinking station where he fought,
+But like a man he died.
+
+38
+	
+
+V,8,2527
+	
+
+Ay, and brought off the field: your cause of sorrow
+Must not be measured by his worth, for then
+It hath no end.
+
+39
+	
+
+V,8,2531
+	
+
+Ay, on the front.
+
+ROSSROSS
