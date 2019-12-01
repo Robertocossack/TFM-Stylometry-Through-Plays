@@ -7,4 +7,7 @@ With this purpose I've made use of stylometric analysis to explore the plays of 
 Specifically, the techniques related with authorship attribution were put into play, attending mostly to lexical 
 structure and vocabulary used, by methods which have been previpously validated in the domain of authorship atribution.
 
-A markdown with all the necessary information to run the code and go through the analysis and results its provided.
+A markdown, under the name of work_report, with all the necessary information to run the code and go through the analysis and results its provided.
+
+Roberto Marmolejo Herrera
+robertomarmolejoherrera@gmail.com
