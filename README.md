@@ -1,6 +1,6 @@
 # TFM-Stylometry-Through-Plays
 
-This project its aimed at getting some insights over the capability of classical theater authors 
+This project is aimed at getting some insights over the capability of classical theater authors 
 in terms of character discrimination, and offer a description as deep as possible of this phenomena.
 
 With this purpose I've made use of stylometric analysis to explore the plays of six authors in two different languages. 
